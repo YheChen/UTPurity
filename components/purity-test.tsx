@@ -7,7 +7,7 @@ import { Card } from "@/components/ui/card";
 
 // This is a placeholder for the questions you'll add manually
 const placeholderQuestions = [
-  "Rejected from your top choice university",
+  "Rejected from Waterloo",
   "Eaten Mama's best hot dog in front of sidney smith",
   "Spent over 24 consecutive hours in a non residence building",
   "Started a fire in a non-residence building",
